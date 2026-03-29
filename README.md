@@ -1,9 +1,11 @@
 <div align="center">
   
 # 🔐 Login Pages
-[![Ver projeto](https://img.shields.io/badge/Ver_projeto-1E40AF?style=for-the-badge)](https://celia-rocha.github.io/login-pages/)
-</div>
+<a href="https://celia-rocha.github.io/login-pages/">
+  <img src="https://img.shields.io/badge/Ver_projeto-1E40AF?style=for-the-badge" width="180">
+</a>
 
+</div>
 
 ## 📖 Sobre o Projeto
 
