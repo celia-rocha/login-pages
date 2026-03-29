@@ -2,7 +2,7 @@
   
 # 🔐 Login Pages
 <a href="https://celia-rocha.github.io/login-pages/">
-  <img src="https://img.shields.io/badge/Ver_projeto-1E40AF?style=for-the-badge" width="180">
+  <img src="https://img.shields.io/badge/Ver_projeto-1E40AF?style=for-the-badge" width="170">
 </a>
 
 </div>
