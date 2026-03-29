@@ -1,11 +1,8 @@
 <div align="center">
   
 # 🔐 Login Pages
-
-[![Status](https://img.shields.io/badge/Status-Concluído-1E40AF?style=for-the-badge)]()
-
+[![Ver projeto](https://img.shields.io/badge/Ver_projeto-1E40AF?style=for-the-badge)](https://celia-rocha.github.io/login-pages/)
 </div>
-
 ---
 
 ## 📖 Sobre o Projeto
