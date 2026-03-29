@@ -18,7 +18,6 @@ O Login Pages é um projeto focado em criar uma tela de autenticação moderna, 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
 
 ## 🛠️ Tecnologias Utilizadas
 <div align="center">
