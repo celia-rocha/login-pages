@@ -25,7 +25,7 @@ O Login Pages é um projeto focado em criar uma tela de autenticação moderna, 
 
 <div align="center">
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![React](https://img.shields.io/badge /React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
@@ -62,6 +62,6 @@ npm run dev
 
 <div align="center">
 
-### 💖 Desenvolvido com Dedicação e muito café!! 
+### 💖 Desenvolvido com Dedicação e muito café!!
 
 </div>
